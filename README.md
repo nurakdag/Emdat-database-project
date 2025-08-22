@@ -86,8 +86,15 @@ JOIN disaster_classification_has_impact di
 JOIN impact i 
   ON di.Impact_impact_id = i.impact_id
 WHERE d.disaster_group = 'Natural';
-```
-```
+
+
+
+
+## 📌 References
+
+Kaggle Dataset
+
+EM-DAT Official Website
 
 
 
