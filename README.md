@@ -87,7 +87,7 @@ JOIN impact i
   ON di.Impact_impact_id = i.impact_id
 WHERE d.disaster_group = 'Natural';
 
-
+```
 
 
 ## 📌 References
